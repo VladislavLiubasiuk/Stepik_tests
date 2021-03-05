@@ -1,5 +1,5 @@
 #Stepik_test
-wtf is dis tutorial?
+how about typing in email and username, how to edit readme file via git bash console? tutorial? hello?
 :w to save changes
 :qa to leave
 
